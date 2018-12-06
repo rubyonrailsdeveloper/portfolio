@@ -3421,3 +3421,8 @@ outline: 0;
         transform: translateY(-100px) rotate(45deg) scale(0);
     }
 }
+@media only screen and (max-wdith: 980px){
+  .build-content-wrapper{
+    width: 100%;
+  }
+}
